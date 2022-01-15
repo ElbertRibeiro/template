@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+  <img alt="Nome Projeto" title="nome-projeto" src=".github/projeto logo" width="220px" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
+  <img alt="Nome projeto" src=".github/projeto logo" width="100%">
 </p>
 
 ## 🚀 Tecnologias
