@@ -3,7 +3,7 @@ name: Solicitação de recurso
 about: Sugira uma ideia para este projeto
 title: ''
 labels: enhancement
-assignees: ''
+assignees: ElbertRibeiro
 
 ---
 

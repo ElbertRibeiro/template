@@ -3,7 +3,7 @@ name: Relatório de erro
 about: Crie um relatório para nos ajudar a melhorar
 title: ''
 labels: bug
-assignees: ''
+assignees: ElbertRibeiro
 
 ---
 
